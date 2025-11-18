@@ -1,0 +1,16 @@
+name: dev-vm
+id: ari:cloud:compass:5e94d758-a794-4b1d-8c6d-fc24ab811c25:component/eaa92134-53b3-4c85-a00a-1874d1736e0e/1a6c9644-90a7-40ab-9a82-cb641fc93be3
+description: null
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/Kavia-ai/dev-vm
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
